@@ -9,6 +9,3 @@ https://docs.google.com/spreadsheets/d/1nlzMrNEOlJu2yvb5HGnGRBbNqcIDJyX0lV3OLZh5
 
 # Skenario Test API
 https://docs.google.com/spreadsheets/d/1eRmEalA_Yd33I7za3Mc8iu5Z8cHBCOr1yIwnD2u3JnE/edit?usp=sharing
-
-# Answers to questions
-https://docs.google.com/document/d/1HXNXqME9gveTSQrazvA1no-dc16kmTqQyXnGY8j75ps/edit?usp=sharing
